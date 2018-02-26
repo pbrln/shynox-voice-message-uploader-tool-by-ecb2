@@ -1,0 +1,11 @@
+{
+  "name": "shynox-voice-message-uploader-tool-by-ecb2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ecb2",
+  "license": "MIT",
+  "dependencies": {
+    "datauri": "^1.1.0",
+    "request": "^2.83.0"
+  }
+}
